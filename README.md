@@ -1,32 +1,36 @@
 
-# Hi there 👋
-
-<h1 align="center">Siddheshwar Yerbage</h1>
+<h1 align="center">Hi 👋, I'm Siddheshwar Yerbage</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | Java | Building Scalable Web Applications
+Full Stack Developer • MERN Stack • Java • AI Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building clean, efficient, and user-focused applications with modern web technologies.
+Building scalable web applications and exploring AI-powered solutions.
 </p>
 
 <p align="center">
-<a href="https://github.com/SiddheshwarYerbage">
-<img src="https://komarev.com/ghpvc/?username=siddheshwaryerbage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+  <a href="https://github.com/SiddheshwarYerbage">
+    <img src="https://komarev.com/ghpvc/?username=siddheshwaryerbage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+
+  <a href="https://github.com/SiddheshwarYerbage?tab=followers">
+    <img src="https://img.shields.io/github/followers/SiddheshwarYerbage?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 🚀 About Me
 
-- 🔭 Currently building **AI-powered web applications**
-- 🌱 Learning **Spring Boot, System Design, and Backend Architecture**
-- 👨‍💻 Focused on creating scalable full-stack applications
-- 💬 Ask me about **React, Node.js, MongoDB, JavaScript, and Java**
-- 📫 Reach me at: **sidhuyerbage@gmail.com**
-- ⚡ Strong believer in clean code and performance-driven development
+- 🔭 Currently working on **AI-powered applications**
+- 🌱 Learning **Spring Boot, System Design & Backend Architecture**
+- 💡 Interested in **Full Stack Development & Artificial Intelligence**
+- 💬 Ask me about **React, Node.js, MongoDB, JavaScript & Java**
+- 📫 Reach me at **sidhuyerbage@gmail.com**
+- ⚡ Fun fact: **I care more about clean architecture than flashy UI**
 
 ---
 
@@ -34,15 +38,15 @@ Passionate about building clean, efficient, and user-focused applications with m
 
 <p align="left">
 <a href="https://www.linkedin.com/in/siddheshwar-yerbage-77551325b/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 <a href="https://twitter.com/yerbagesid53168" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 
 <a href="https://instagram.com/siddheshwar_yerbage_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
 
@@ -50,27 +54,9 @@ Passionate about building clean, efficient, and user-focused applications with m
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,java,git,github,vscode" />
 
 </p>
 
@@ -80,11 +66,15 @@ Passionate about building clean, efficient, and user-focused applications with m
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddheshwaryerbage&show_icons=true&theme=tokyonight" alt="github stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddheshwaryerbage&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshwaryerbage&theme=tokyonight" alt="github streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshwaryerbage&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshwaryerbage&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages"/>
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwaryerbage&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -92,10 +82,22 @@ Passionate about building clean, efficient, and user-focused applications with m
 
 ## 🎯 Current Goals
 
-- Master backend development with Java & Spring Boot
-- Build production-level AI applications
-- Improve system design and scalable architecture skills
-- Contribute to open-source projects
+- 🚀 Master Backend Development with Java & Spring Boot
+- 🤖 Build Production-Level AI Applications
+- 🧠 Improve System Design Skills
+- 🌍 Contribute to Open Source Projects
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
 ```
